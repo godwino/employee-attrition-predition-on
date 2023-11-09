@@ -1,6 +1,5 @@
 # employee-attrition-predition-on
 Employee-Attrition-Prediction
-Employee Attrition Prediction
 Predicting employee turnover using machine learning to help organizations reduce the cost associated with employee attrition.
 
 Table of Contents
